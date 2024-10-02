@@ -56,7 +56,7 @@ function Stats() {
           <div className="stat-figure text-secondary">
             <div className="avatar online">
               <div className="w-16 rounded-full">
-                <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+                <img src="https://avatars.githubusercontent.com/u/120826117?v=4" />
               </div>
             </div>
           </div>

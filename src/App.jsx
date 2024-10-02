@@ -8,6 +8,7 @@ import Input from "./components/Input";
 import Footer from "./components/Footer";
 import MobileMockup from "./components/MobileMockup";
 import BrowserMockup from "./components/BrowserMockup";
+import BadgeLinks from "./components/BadgeLinks";
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
         <Hero />
 
         <Stats />
+
+        <BadgeLinks/>
 
         <Toast />
 

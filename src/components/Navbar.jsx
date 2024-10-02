@@ -56,6 +56,8 @@ function Navbar() {
                     <a className="btn btn-ghost text-xl">SABBIR MMS</a>
                 </div>
                 <div className="navbar-end">
+                    
+                    <img src="https://komarev.com/ghpvc/?username=sabbirmms&label=Profile%20views&color=red&style=flat" alt="mms" />
                     <label className="label">{isLight ? "Light" : "Dark"}</label>
                     <input
                         type="checkbox"
