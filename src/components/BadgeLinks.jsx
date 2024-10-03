@@ -29,7 +29,7 @@ const BadgeLinks = () => {
     ];
 
     return (
-        <div className="p-5 rounded-lg shadow-md">
+        <div className="p-5 rounded-lg shadow-md flex flex-col items-center justify-center">
             <h2 className="text-xl font-semibold mb-4">GitHub Profile View Badges</h2>
             <ul className="space-y-2">
                 {badges.map((badge, index) => (

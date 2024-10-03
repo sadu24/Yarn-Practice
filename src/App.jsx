@@ -32,7 +32,7 @@ function App() {
 
         <Input />
 
-        <div className="flex gap-5 m-4 justify-around items-center">
+        <div className="flex flex-col lg:flex-row gap-5 m-4 justify-around items-center">
           <MobileMockup />
           <BrowserMockup />
         </div>

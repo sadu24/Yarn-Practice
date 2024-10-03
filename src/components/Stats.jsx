@@ -9,7 +9,7 @@ function Stats() {
       </div>
 
       
-      <div className="stats shadow skeleton flex justify-center m-4">
+      <div className="stats shadow skeleton flex flex-col lg:flex-row justify-center m-4">
         <div className="stat">
           <div className="stat-figure text-primary">
             <svg
