@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import MobileMockup from "./components/MobileMockup";
 import BrowserMockup from "./components/BrowserMockup";
 import BadgeLinks from "./components/BadgeLinks";
+import GitHubEmbed from "./components/GitHubEmbed";
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
 
         <Stats />
 
-        <BadgeLinks/>
+        <GitHubEmbed />
+        <BadgeLinks />
 
         <Toast />
 
