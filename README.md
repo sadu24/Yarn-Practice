@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AAChartModel/count.svg" />
+  <img src="https://profile-counter.glitch.me/sabbirmms/count.svg" />
 </p>
 
 两句三年得, 一吟双泪流.
@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 知音如不赏, 归卧故山秋.
 
 
- ![](https://visitor-badge.glitch.me/badge?page_id=AAChartModel.visitor-badge)  一直致力于茴香豆的四种写法...... 
+ ![](https://visitor-badge.glitch.me/badge?page_id=sabbirmms.visitor-badge)  一直致力于茴香豆的四种写法...... 
 
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=aachartmodel&theme=radical' width="45%" height="100%">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AAChartModel&layout=compact&theme=radical' width="35%" height="100%">
+<img src='https://github-readme-stats.vercel.app/api?username=sabbirmms&theme=radical' width="45%" height="100%">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirmms&layout=compact&theme=radical' width="35%" height="100%">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AAChartModel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabbirmms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
